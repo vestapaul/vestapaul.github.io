@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
-import pelican_youtube
 
 AUTHOR = u'vestapaul'
 SITENAME = u'Paul Stauskas'
@@ -44,8 +43,8 @@ PAGE_ORDER_BY = 'page-order'
 
 GOOGLE_ANALYTICS = 'UA-102352675-1'
 
-PLUGIN_PATHS = ["plugins", "/Users/pstauskas/vestapaulGitHubPages/vestapaul.github.io/plugins"]
-PLUGINS = ['pelican_youtube']
+PLUGIN_PATHS = ["C:\\Users\\pstau\\Documents\\GitHub\\pelican-plugins"]
+PLUGINS = ['liquid_tags.soundcloud']
 PAGE_URL = 'pages/{slug}/'
 PAGE_SAVE_AS = 'pages/{slug}/index.html'
 
