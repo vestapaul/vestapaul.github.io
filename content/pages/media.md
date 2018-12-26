@@ -9,6 +9,9 @@ Slug: media
 
 Recorded samples
 
+{% soundcloud https://soundcloud.com/vestapaul/revelation-riffs-revelation2 %}
+{% soundcloud https://soundcloud.com/vestapaul/pendulum-riffs-revelation %}
+
 
 
 
