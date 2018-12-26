@@ -7,10 +7,14 @@ Summary: Media
 page-order: 002
 Slug: media
 
-Recorded samples
+Recording samples
 
+Shotgun Rider - "Me and A Memory" riffs 
 {% soundcloud https://soundcloud.com/vestapaul/revelation-riffs-revelation2 %}
+Pure Bathing Culture - "Pendulum" riffs
 {% soundcloud https://soundcloud.com/vestapaul/pendulum-riffs-revelation %}
+Pure Bathing Culture - "The Tower" riffs
+{% soundcloud https://soundcloud.com/vestapaul/the-tower-riffs %}
 
 
 
